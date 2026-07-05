@@ -100,24 +100,6 @@ My long-term interests include:
 - Next-generation Computing Paradigms
 
 ---
-
-# Current Objectives
-
-```text
-STATUS : EXECUTING
-
-[✓] Systems Engineering Identity
-[ ] Paid Internship
-[ ] Patent Filing
-[ ] BSFI Development
-[ ] AeroToroid Development
-[ ] Portfolio Upgrade
-[ ] GitHub Optimization
-[ ] 600 LeetCode Problems
-```
-
----
-
 # Current Focus
 
 Seeking opportunities in:
