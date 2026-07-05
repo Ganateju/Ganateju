@@ -115,14 +115,9 @@ Seeking opportunities in:
 
 ## Connect
 
-Portfolio: YOUR_PORTFOLIO_LINK
+Portfolio: https://ganateju-os.vercel.app/
 
-LinkedIn: YOUR_LINKEDIN_LINK
+LinkedIn: www.linkedin.com/in/ganateju-pothuganti
 
-Resume: YOUR_RESUME_LINK
+Email: pothugantiganateju@gmail.com
 
-Email: YOUR_EMAIL
-
----
-
-> Build → Measure → Refine → Deploy
