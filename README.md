@@ -1,58 +1,146 @@
 # Ganateju Pothuganti
 
-Systems Engineer
-AI Systems • Robotics • Performance Engineering
+### Systems-Oriented Engineer | AI Systems • Robotics • Embedded Intelligence • Performance Engineering
 
-B.Tech ECE | AIML Minor
-
----
-
-## Areas of Interest
-
-• Autonomous Systems
-• Robotics
-• Embedded Intelligence
-• Retrieval Architectures
-• AI Systems
-• Performance Engineering
+> Designing systems that operate under constraints of information, trust, latency, perception, energy and physical deployment.
 
 ---
 
-## Featured Work
+## About Me
 
-🧠 BSFI
-Deterministic structural retrieval framework
-Patent preparation underway
+I am an undergraduate engineer interested in understanding how intelligent systems emerge from the interaction between computation, hardware, information, constraints and design.
 
-🚁 AeroToroid
-Toroidal UAV architecture
-Patent preparation underway
+While my work so far has explored domains such as robotics, retrieval architectures, computer vision, autonomous systems and distributed trust, I do not view these domains as boundaries.
 
-🔒 Consensus Mesh
-Zero-trust identity verification system
+They are simply environments where a common engineering methodology has been exercised.
 
-🛰 Satellite Change Detection
-Remote sensing intelligence
+That methodology generally consists of:
 
-⚙ Autonomous Drone Stack
-ROS2 • PX4 • AirSim
+- Understanding constraints
+- Identifying abstractions
+- Designing interfaces
+- Evaluating trade-offs
+- Measuring performance
+- Iterating toward deployable systems
 
 ---
 
-## Current Objectives
+# Domains of Execution
 
-- Patent filing
-- AI Systems Internship
-- Robotics Internship
-- 600 Leetcode Problems
-- Research Collaborations
+These represent domains where I currently possess practical exposure and project experience.
+
+### AI Systems
+- Retrieval Architectures
+- Computer Vision
+- Performance Optimization
+- Structural Information Representation
+
+### Robotics & Autonomy
+- ROS2
+- PX4
+- UAV Systems
+- Autonomous Platforms
+- Simulation Environments
+
+### Embedded Intelligence
+- Sensor Fusion
+- Middleware
+- Hardware–Software Integration
+- Edge Deployment Concepts
+
+### Security & Trust Systems
+- Consensus Architectures
+- Verification Mechanisms
+- Zero-Trust Design Principles
 
 ---
 
-Portfolio
+# Featured Systems
 
-Resume
+### 🧠 BSFI
+Deterministic structural retrieval architecture designed to explore efficient indexing, candidate reduction and information representation.
 
-LinkedIn
+**Status:** Patent Preparation
 
-Email
+---
+
+### 🚁 AeroToroid
+Novel UAV architecture investigating alternative aerodynamic configurations and autonomous platform design.
+
+**Status:** Patent Preparation
+
+---
+
+### 🔒 Consensus Mesh
+Zero-trust verification ecosystem integrating signal processing, identity validation and distributed consensus concepts.
+
+---
+
+### 🛰 Satellite Change Detection
+Geospatial intelligence framework leveraging computer vision techniques for temporal land-use analysis.
+
+---
+
+### ⚙ Autonomous Drone Stack
+ROS2, PX4 and simulation-based exploration of intelligent autonomous systems.
+
+---
+
+# Engineering Perspective
+
+I am less interested in building isolated applications and more interested in understanding how systems behave as integrated entities.
+
+My long-term interests include:
+
+- Intelligent Systems
+- Autonomous Platforms
+- Performance Engineering
+- Adaptive Architectures
+- Distributed Intelligence
+- Next-generation Computing Paradigms
+
+---
+
+# Current Objectives
+
+```text
+STATUS : EXECUTING
+
+[✓] Systems Engineering Identity
+[ ] Paid Internship
+[ ] Patent Filing
+[ ] BSFI Development
+[ ] AeroToroid Development
+[ ] Portfolio Upgrade
+[ ] GitHub Optimization
+[ ] 600 LeetCode Problems
+```
+
+---
+
+# Current Focus
+
+Seeking opportunities in:
+
+- AI Systems
+- Robotics
+- Autonomous Systems
+- Embedded Intelligence
+- Research & Development
+- Performance Engineering
+
+---
+
+## Connect
+
+Portfolio: YOUR_PORTFOLIO_LINK
+
+LinkedIn: YOUR_LINKEDIN_LINK
+
+Resume: YOUR_RESUME_LINK
+
+Email: YOUR_EMAIL
+
+---
+
+> Build → Measure → Refine → Deploy
