@@ -1,16 +1,58 @@
-## Hi there 👋
+# Ganateju Pothuganti
 
-<!--
-**Ganateju/Ganateju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineer
+AI Systems • Robotics • Performance Engineering
 
-Here are some ideas to get you started:
+B.Tech ECE | AIML Minor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+
+• Autonomous Systems
+• Robotics
+• Embedded Intelligence
+• Retrieval Architectures
+• AI Systems
+• Performance Engineering
+
+---
+
+## Featured Work
+
+🧠 BSFI
+Deterministic structural retrieval framework
+Patent preparation underway
+
+🚁 AeroToroid
+Toroidal UAV architecture
+Patent preparation underway
+
+🔒 Consensus Mesh
+Zero-trust identity verification system
+
+🛰 Satellite Change Detection
+Remote sensing intelligence
+
+⚙ Autonomous Drone Stack
+ROS2 • PX4 • AirSim
+
+---
+
+## Current Objectives
+
+- Patent filing
+- AI Systems Internship
+- Robotics Internship
+- 600 Leetcode Problems
+- Research Collaborations
+
+---
+
+Portfolio
+
+Resume
+
+LinkedIn
+
+Email
