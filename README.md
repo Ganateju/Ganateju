@@ -1,20 +1,30 @@
 # Ganateju Pothuganti
 
-### Systems-Oriented Engineer | AI Systems • Robotics • Embedded Intelligence • Performance Engineering
+### Systems Engineer | AI Systems • Software Platforms • Performance Engineering
 
-> Designing systems that operate under constraints of information, trust, latency, perception, energy and physical deployment.
+> Designing systems under constraints of information, trust, latency, perception, energy and deployment.
 
 ---
 
-## About Me
+## Snapshot
 
-I am an undergraduate engineer interested in understanding how intelligent systems emerge from the interaction between computation, hardware, information, constraints and design.
+🎓 B.Tech ECE (2028)  
+🧠 AIML Minor  
+📍 India  
 
-While my work so far has explored domains such as robotics, retrieval architectures, computer vision, autonomous systems and distributed trust, I do not view these domains as boundaries.
+⚡ Interests
 
-They are simply environments where a common engineering methodology has been exercised.
+AI Systems • Intelligent Software • Performance Engineering • Autonomous Systems • Distributed Trust
 
-That methodology generally consists of:
+🚀 Seeking
+
+Research Internships • Software Engineering • Applied AI • DeepTech Opportunities
+
+---
+
+## Engineering Approach
+
+Across domains, I generally approach problems through:
 
 - Understanding constraints
 - Identifying abstractions
@@ -23,101 +33,118 @@ That methodology generally consists of:
 - Measuring performance
 - Iterating toward deployable systems
 
+Projects may differ.
+
+Methodology remains consistent.
+
 ---
 
-# Domains of Execution
-
-These represent domains where I currently possess practical exposure and project experience.
+# Domains
 
 ### AI Systems
 - Retrieval Architectures
 - Computer Vision
-- Performance Optimization
 - Structural Information Representation
+- Performance Optimization
 
-### Robotics & Autonomy
+### Intelligent Software
+- Backend Architectures
+- Verification Platforms
+- Full-Stack Systems
+- Platform Engineering
+
+### Autonomous Systems
 - ROS2
 - PX4
 - UAV Systems
-- Autonomous Platforms
 - Simulation Environments
-
-### Embedded Intelligence
 - Sensor Fusion
-- Middleware
-- Hardware–Software Integration
-- Edge Deployment Concepts
 
-### Security & Trust Systems
+### Trust Systems
 - Consensus Architectures
 - Verification Mechanisms
-- Zero-Trust Design Principles
+- Zero-Trust Principles
 
 ---
 
 # Featured Systems
 
 ### 🧠 BSFI
-Deterministic structural retrieval architecture designed to explore efficient indexing, candidate reduction and information representation.
+Deterministic retrieval framework achieving significant search-space reduction through structural indexing.
 
-**Status:** Patent Preparation
-
----
-
-### 🚁 AeroToroid
-Novel UAV architecture investigating alternative aerodynamic configurations and autonomous platform design.
-
-**Status:** Patent Preparation
+**Status:** Patent Evaluation
 
 ---
 
-### 🔒 Consensus Mesh
-Zero-trust verification ecosystem integrating signal processing, identity validation and distributed consensus concepts.
+### 🛸 AeroToroid
+Novel UAV platform investigating unconventional propulsion coordination and scalable aerial architectures.
+
+**Status:** Patent Evaluation
 
 ---
 
-### 🛰 Satellite Change Detection
-Geospatial intelligence framework leveraging computer vision techniques for temporal land-use analysis.
+### 📡 Consensus Mesh
+Zero-trust presence verification framework leveraging environmental consensus, RF fingerprinting and indoor localization.
 
 ---
 
-### ⚙ Autonomous Drone Stack
-ROS2, PX4 and simulation-based exploration of intelligent autonomous systems.
+### 🛰 Sat-Scan
+Geospatial intelligence system utilizing Sentinel-2 imagery, Siamese architectures and probabilistic classification.
 
 ---
 
-# Engineering Perspective
+### 🎙 Audio Forensics Suite
+Multi-method audio steganography platform featuring forensic analysis and blind steganalysis.
 
-I am less interested in building isolated applications and more interested in understanding how systems behave as integrated entities.
+---
 
-My long-term interests include:
+### ⚙ GANATEJU_OS
+CMS-driven engineering portfolio platform designed for dynamic project documentation and long-term knowledge management.
+
+---
+# 🚀 Engineering Highlights
+
+```text
+Systems Built          6+
+
+Patent Track Projects  2
+
+Deployments            3+
+
+Largest Benchmark      10M+ Samples
+
+BSFI                   15,800× Reduction, Patent Evaluation
+
+Consensus Mesh         APK Released
+
+AeroToroid             Patent Evaluation
+
+Sat-Scan               Live Demo
+
+Audio Suite            Multi-Method Steganography
+
+AR Counter             Functional Prototype
+```
+
+---
+
+# Current Interests
 
 - Intelligent Systems
-- Autonomous Platforms
 - Performance Engineering
-- Adaptive Architectures
 - Distributed Intelligence
-- Next-generation Computing Paradigms
-
----
-# Current Focus
-
-Seeking opportunities in:
-
-- AI Systems
-- Robotics
-- Autonomous Systems
-- Embedded Intelligence
-- Research & Development
-- Performance Engineering
+- Autonomous Platforms
+- Adaptive Architectures
 
 ---
 
 ## Connect
 
-Portfolio: https://ganateju-os.vercel.app/
+Portfolio  
+https://ganateju-os.vercel.app/
 
-LinkedIn: www.linkedin.com/in/ganateju-pothuganti
+LinkedIn  
+https://linkedin.com/in/ganateju-pothuganti
 
-Email: pothugantiganateju@gmail.com
-
+Email  
+pothugantiganateju@gmail.com
